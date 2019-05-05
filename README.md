@@ -1,5 +1,4 @@
 ## LeetCode
 
-### This is for recording codes on LeetCode practice
+### Python Solutions for LeetCode
 
-#### [Python](https://github.com/shendeguize/LeetCode/tree/master/Python)
